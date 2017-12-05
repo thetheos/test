@@ -15,6 +15,7 @@ Physique Oscillation Harmonique
    physique
    Exercice-Entrainement-exam
    PhysiqueFormule
+   vocabularyAfghanistan
 
 Phènomènes périodiques
 ======================
