@@ -1,99 +1,49 @@
 Exercices supplémentaires
 
-1. Résous les équations suivantes dans C :
+#. Résous les équations suivantes dans C :
 
-a. |image0|
+    a. :math:`(1+i)z^2\text{–}(3+i)z-6+4i=0`
 
-b. |image1|
+    b. :math:`z^2-2\sqrt 5z-12i=0`
 
-c. |image2|
+    c. :math:`z^2-(5-14i)z-2(5i+12)=0`
 
-d.
+    d. :math:`z^2-(3+4i)z-1+5i=0`
 
-e. |image3|
+    e. :math:`z^4+10z^2+169=0`
 
- 2.
+   2.
 
-a. |image4|
+    a. :math:`z^3=2-2i`
 
-b. |image5|
+    b. :math:`z^3=11+2i`
 
 Règle :
 
-|image6|\ |image7|
+:math:`\mathit{si}z_1=r_1\mathit{cis}\phi _1\mathit{et}z_2=r_2\mathit{cis}\phi _2\mathit{alors}z_1\ast z_2=r_1\ast r_2\mathit{cis}(\phi _1+\phi _2)`
+:math:`\mathit{Pour}\mathit{tout}\mathit{naturel}\mathit{non}\mathit{nul}n,\mathit{on}a:(\mathit{cis}\phi )^n=\mathit{cis}(n\phi )`
 
-|image8|
+.. math:: \mathit{Pour}\mathit{tout}\mathit{naturel}\mathit{non}\mathit{nul}n,\mathit{on}a:(r\mathit{cis}\phi )^n=r^n\mathit{cis}(n\phi )
 
-|image9|
+.. math:: \mathit{Si}z=r\mathit{cis}\phi \mathit{Alors}\frac 1 z=\frac 1 r\mathit{cis}(-\phi )
 
-|image10|
+.. math:: \mathit{si}z_1=r_1\mathit{cis}\phi _1\mathit{et}z_2=r_2\mathit{cis}\phi _2\mathit{alors}\frac{z_1}{z_2}=\frac{r_1}{r_2}\mathit{cis}(\phi _1-\phi _2)
 
 Réponse :
 
-1.
+  1.
 
- a. |image11|
+     a. :math:`S=3-2i;-1+i`
 
- b. |image12|
+     b. :math:`S=\sqrt 5+3+2i;\sqrt 5-3-2i`
 
- c. |image13|
+     c. :math:`S=5-12i,-2i`
 
- d. |image14|
+     d. :math:`S=2+3i;1+i`
 
- e. |image15|
+     e. :math:`S=2+3;-2-3i;2-3i;-2+3i`
 
-2.
+  2.
 
- a. |image16|
+     a. :math:`z=2\mathit{cis}(\frac{-\pi }{12}+2\frac{\pi } 3)`
 
-.. |image0| image:: ./ObjectReplacements/Object 2
-   :width: 5.046cm
-   :height: 0.483cm
-.. |image1| image:: ./ObjectReplacements/Object 1
-   :width: 3.343cm
-   :height: 0.504cm
-.. |image2| image:: ./ObjectReplacements/Object 5
-   :width: 5.241cm
-   :height: 0.483cm
-.. |image3| image:: ./ObjectReplacements/Object 9
-   :width: 3.23cm
-   :height: 0.527cm
-.. |image4| image:: ./ObjectReplacements/Object 11
-   :width: 1.85cm
-   :height: 0.527cm
-.. |image5| image:: ./ObjectReplacements/Object 12
-   :width: 2.028cm
-   :height: 0.527cm
-.. |image6| image:: ./ObjectReplacements/Object 13
-   :width: 10.141cm
-   :height: 0.531cm
-.. |image7| image:: ./ObjectReplacements/Object 14
-   :width: 8.779cm
-   :height: 0.543cm
-.. |image8| image:: ./ObjectReplacements/Object 15
-   :width: 9.409cm
-   :height: 0.543cm
-.. |image9| image:: ./ObjectReplacements/Object 16
-   :width: 5.629cm
-   :height: 0.998cm
-.. |image10| image:: ./ObjectReplacements/Object 17
-   :width: 9.102cm
-   :height: 1.124cm
-.. |image11| image:: ./ObjectReplacements/Object 4
-   :width: 2.94cm
-   :height: 0.467cm
-.. |image12| image:: ./ObjectReplacements/Object 3
-   :width: 4.493cm
-   :height: 0.504cm
-.. |image13| image:: ./ObjectReplacements/Object 7
-   :width: 2.847cm
-   :height: 0.467cm
-.. |image14| image:: ./ObjectReplacements/Object 8
-   :width: 2.685cm
-   :height: 0.467cm
-.. |image15| image:: ./ObjectReplacements/Object 10
-   :width: 5.791cm
-   :height: 0.467cm
-.. |image16| image:: ./ObjectReplacements/Object 18
-   :width: 3.477cm
-   :height: 0.781cm
