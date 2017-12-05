@@ -1,7 +1,4 @@
 
-.. toctree::
-	:maxdepth: 2
-
 ===============================
 Physique Oscillation Harmonique
 ===============================
