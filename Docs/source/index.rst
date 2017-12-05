@@ -15,6 +15,7 @@ Physique Oscillation Harmonique
    :caption: Contents:
 
    physique
+   Exercice-Entrainement-exam
 
 Phènomènes périodiques
 ======================
