@@ -1,4 +1,7 @@
+
+=========================
 Exercices supplémentaires
+=========================
 
 #. Résous les équations suivantes dans C :
 

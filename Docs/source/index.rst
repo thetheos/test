@@ -9,6 +9,7 @@ Physique Oscillation Harmonique
    :format: html latex
 
 .. toctree::
+   :maxdepth: 2
    :caption: Contents:
 
    physique
